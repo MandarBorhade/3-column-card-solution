@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Github code](https://mandarborhade.github.io/3-column-card-solution/)
-- Live Site URL: [Live site](https://mandarborhade.github.io/3-column-preview-card-solution/)
+- Solution URL: [Github code](https://github.com/MandarBorhade/3-column-card-solution)
+- Live Site URL: [Live site](https://mandarborhade.github.io/3-column-card-solution/)
 
 ## My process
 
